@@ -1,0 +1,14 @@
+{
+	"name": "arxvideo",
+	"authors": [
+		"tanitta"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, tanitta",
+    "dependencies":{
+        "ffmpeg-d":"2.5.1", 
+        "armos":"0.2.4"
+    }, 
+	"license": "proprietary", 
+	"targetType": "library"
+}

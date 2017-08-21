@@ -1,0 +1,12 @@
+{
+    "authors": [
+        "tanitta"
+    ],
+    "dependencies": {
+        "armos": "0.2.4", 
+        "arxvideo": {"path":"../"}
+    },
+    "description": "A minimal D application.",
+    "license": "proprietary",
+    "name": "example"
+}

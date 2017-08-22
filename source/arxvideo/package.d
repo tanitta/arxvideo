@@ -18,12 +18,6 @@ class VideoTexture : Texture{
 
     private{
         Video _video;
-        // VideoTexture openVideo(in string path){
-        //     assert(avformat_open_input(&_formatContext, path.ptr, null, null) >= 0, "failed to open input");
-        //     return this;
-        // }
-        //
-        // VideoTexture findStreamInfo(){}
     }//private
 }//class VideoTexture
 
